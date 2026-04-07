@@ -43,9 +43,6 @@ An intelligent healthcare assistant designed to help users with pharmaceutical q
 An automated tool that leverages Large Language Models (LLMs) to provide intelligent code reviews, identifying bugs and suggesting improvements.
 - **Tech**: Python, LLMs, Streamlit, OpenRouter API
 
-#### 🚑 Nirveonx-MVP
-A comprehensive health assistant platform featuring ambulance booking tools and AI-driven health support.
-- **Tech**: Full Stack, Geolocation, Real-time Updates
 
 ---
 

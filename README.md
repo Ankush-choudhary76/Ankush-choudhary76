@@ -35,7 +35,7 @@ An AI-powered scanning and sensing application for intelligent data analysis and
 
 ## 📫 Connect
 
-- [GitHub](https://github.com/AnkushChoudhary)
+- [Linkdin](https://www.linkedin.com/in/ankush-choudhary-537939372/)
 - [Codolio](https://codolio.com/profile/ankush_choudhary76)
 
 ## How to View

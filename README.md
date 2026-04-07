@@ -30,7 +30,8 @@ An automated tool that leverages Large Language Models (LLMs) to provide intelli
 - **Tech**: Python, LLMs, Streamlit, OpenRouter API
 
 ### 🔍 ScanSense AI
-An AI-powered scanning and sensing application for intelligent data analysis and automation.
+·	a multimodal medical report analyzer using Streamlit, enabling upload and processing of medical images (X-rays, MRIs, CT scans) and PDFs. Improved report interpretation speed by ~60% with AI-driven insights and simplified explanations. 
+·	Integrated Large Language Models (Groq API, OpenRouter) with features like text extraction (PyPDF2), database managemen
 - **Tech**:  Python, Agentic AI 
 
 ## 📫 Connect
@@ -38,8 +39,5 @@ An AI-powered scanning and sensing application for intelligent data analysis and
 - [Linkdin](https://www.linkedin.com/in/ankush-choudhary-537939372/)
 - [Codolio](https://codolio.com/profile/ankush_choudhary76)
 
-## How to View
-
-Open `index.html` in your web browser to view the portfolio.
 
 &copy; 2024 Ankush Choudhary

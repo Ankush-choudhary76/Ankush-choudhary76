@@ -30,7 +30,7 @@ An automated tool that leverages Large Language Models (LLMs) to provide intelli
 - **Tech**: Python, LLMs, Streamlit, OpenRouter API
 
 ### 🔍 ScanSense AI
-·	a multimodal medical report analyzer using Streamlit, enabling upload and processing of medical images (X-rays, MRIs, CT scans) and PDFs. Improved report interpretation speed by ~60% with AI-driven insights and simplified explanations. 
+·	a multimodal medical report analyzer using Streamlit, enabling upload and processing of medical images (X-rays, MRIs, CT scans) and PDFs.  Improved report interpretation speed by ~60% with AI-driven insights and simplified explanations. 
 ·	Integrated Large Language Models (Groq API, OpenRouter) with features like text extraction (PyPDF2), database managemen
 - **Tech**:  Python, Agentic AI 
 

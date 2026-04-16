@@ -37,5 +37,3 @@ An AI-powered scanning and sensing application for intelligent data analysis and
 
 - ⁠[Linkdin](https://www.linkedin.com/in/ankush-choudhary-537939372/)
 - [Codolio](https://codolio.com/profile/ankush_choudhary76)
-
-![Snake](https://raw.githubusercontent.com/Ankush-choudhary76/Ankush-choudhary76/output/github-contribution-grid-snake.svg)

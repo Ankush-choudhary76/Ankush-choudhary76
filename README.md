@@ -11,7 +11,7 @@ I am a passionate developer with a strong focus on Artificial Intelligence, Mach
 ## 🛠️ Tech Stack
 
 - **Languages**: Python, Java, C++, R
-- **AI & ML Frameworks**: LangChain, LangGraph, TensorFlow, PyTorch, OpenAI
+- **AI & ML Frameworks**: LangChain, LangGraph, TensorFlow, PyTorch, OpenAI ,N8N
 - **Specializations**: Machine Learning, Deep Learning, NLP, RAG
 - **Web Frameworks**: Django, FastAPI, Streamlit
 
